@@ -1,5 +1,8 @@
 {
   "editor.defaultFormatter": "KevinRose.vsc-python-indent",
   "editor.formatOnSave": true,
-  "editor.formatOnPaste": true
+  "editor.formatOnPaste": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  }
 }
